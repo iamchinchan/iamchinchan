@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I am jatin Goyal and i love to learn new things
 
-<!--
-**iamchinchan/iamchinchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on Full React course by Maximillian on udemy
+- 🌱 I’m currently learning full stack React
+- 👯 I’m looking to collaborate on BookBarn, my major project
+- 🤔 I’m looking for help with Servers
+- 📫 How to reach me: onlystudyanshul@gmail.com
+- <!--
 - 😄 Pronouns: ...
+- 💬 Ask me about 
 - ⚡ Fun fact: ...
--->
+- -->
+
