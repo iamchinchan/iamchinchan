@@ -5,9 +5,6 @@
 - 👯 I’m looking to collaborate on BookBarn, my major project
 - 🤔 I’m looking for help with Servers
 - 📫 How to reach me: onlystudyanshul@gmail.com
-
-- <!--
 - 😄 Pronouns: ...
 - 💬 Ask me about 
 - ⚡ Fun fact: ...
-- -->
