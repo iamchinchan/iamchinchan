@@ -5,5 +5,3 @@
 - 👯 I’m looking to collaborate on BookBarn, my major project
 - 🤔 I’m looking for help with Servers
 - 📫 How to reach me: goyaljatin344@gmail.com
-- 💬 Ask me about 
-- ⚡ Fun fact: ...
